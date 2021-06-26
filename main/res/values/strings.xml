@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Biorythms</string>
+    <string-array name="drawer_items">
+        <item>Добавить пользователя</item>
+        <item>Список пользователей</item>
+        <item>Биоритмы</item>
+        <item>Прогноз биоритмов</item>
+        <item>Настройки</item>
+        <item>Помощь</item>
+        <item>О программе</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bioForm"><b>Biorythm</b>=<i>sin</i>((2<b>π</b>/<b>Period</b>)*<b>Days</b>)*100 %,где</string>
+    <string name="piVal"><b>π</b> - число пи;</string>
+    <string name="periodVal"><b>Period</b> - период изменения выбранного биоритма;</string>
+    <string name="daysVal"><b>Days</b> - количество дней от дня рождения до текущего дня (на который производится расчет биоритмов).</string>
+    <string name="physVal"><b>Физический</b>: 23 дня</string>
+    <string name="emoVal"><b>Эмоциональный</b>: 28 дней</string>
+    <string name="mindVal"><b>Интеллектуальный</b>: 33 дня</string>
+    <string name="physVal1"><b>Физический</b>: 23.688437 дня</string>
+    <string name="emoVal1"><b>Эмоциональный</b>: 28.426125 дней</string>
+    <string name="mindVal1"><b>Интеллектуальный</b>: 33.163812 дня</string>
+</resources>
