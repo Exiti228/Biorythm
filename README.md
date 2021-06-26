@@ -1,2 +1,2 @@
 # Biorythm
-My biorhythm analysis project
+My biorhythm analysis project for android devices
